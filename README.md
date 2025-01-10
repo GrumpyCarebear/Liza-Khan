@@ -1,2 +1,3 @@
 # _Liza-Khan_
-This repository showcases my IT skills through projects like dynamic web pages, class assignments, and game development. It reflects my growth in programming, creativity, and problem-solving, demonstrating my ability to deliver quality solutions and my readiness to contribute to real-world tech challenges. 
+<span style="color: #008000;">This repository highlights my IT skills through projects such as dynamic web pages, class assignments, and game development. It showcases my growth in programming, creativity, and problem-solving, demonstrating my ability to deliver high-quality solutions and my readiness to tackle real-world tech challenges.</span>
+
